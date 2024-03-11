@@ -1,0 +1,25 @@
+# Examples and tests
+sample/
+test/
+jest.config.ts
+
+# Scripts
+scripts/
+
+# Build configurations
+babel.config.js
+rollup.config.js
+tsconfig.*
+
+# Formatters and linters
+.eslintrc.cjs
+.prettierrc.yml
+
+# Misc
+**/*.tgz
+.github/
+.vscode/
+.gitignore
+.npmignore
+package-lock.json
+node_modules/
